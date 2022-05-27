@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10e54213.css",
+    "main.js": "/static/js/main.4ab65bd9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/pattern-cook.svg": "/static/media/pattern-cook.58ecd75bd73c18793821.svg",
+    "static/media/logo.svg": "/static/media/logo.3010844af475a00193d011f2f1f3bc24.svg",
+    "static/media/banner.svg": "/static/media/banner.d804360d3cceda99284e91daccc9eddd.svg",
+    "static/media/404NotFound.jpg": "/static/media/404NotFound.f5e986b8c9035d178f7b.jpg",
+    "static/media/profilePicture.png": "/static/media/profilePicture.a9136072d073801df253.png",
+    "static/media/VegetarianColor.png": "/static/media/VegetarianColor.1ed694bf4d5124ab9c3b.png",
+    "static/media/VegetarianBW.png": "/static/media/VegetarianBW.61b94a2547d61753b327.png",
+    "static/media/GlutenFreeColor.png": "/static/media/GlutenFreeColor.11b689a267334d8e4467.png",
+    "static/media/GlutenFreeBW.png": "/static/media/GlutenFreeBW.cfeeb2956b27928df3d2.png",
+    "static/media/VeganColor.png": "/static/media/VeganColor.36af0539c4b41e9897e9.png",
+    "static/media/VeganBW.png": "/static/media/VeganBW.c277abdde5b56c87be0b.png",
+    "index.html": "/index.html",
+    "static/media/account_circle_black_24dp.svg": "/static/media/account_circle_black_24dp.a296afc6f576da859ad3a6147e33871e.svg",
+    "static/media/search_white_24dp.svg": "/static/media/search_white_24dp.66ea5ec3d91c7a187e14c38039638f71.svg",
+    "static/media/autorenew_white_24dp.svg": "/static/media/autorenew_white_24dp.9e1e1c009ec2102c4921dfd7944131f6.svg",
+    "static/media/logout_black_24dp.svg": "/static/media/logout_black_24dp.c99a6b9dce578e2f5999f3a1dc891f47.svg",
+    "main.10e54213.css.map": "/static/css/main.10e54213.css.map",
+    "main.4ab65bd9.js.map": "/static/js/main.4ab65bd9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e54213.css",
+    "static/js/main.4ab65bd9.js"
+  ]
+}
